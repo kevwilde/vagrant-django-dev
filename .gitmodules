@@ -1,6 +1,6 @@
 [submodule "modules/python"]
 	path = modules/python
-	url = https://github.com/uggedal/puppet-module-python
+	url = git://github.com/puppetmodules/puppet-module-python.git
 [submodule "modules/postgresql"]
 	path = modules/postgresql
-	url = https://github.com/akumria/puppet-postgresql.git
+	url = git://github.com/akumria/puppet-postgresql.git
